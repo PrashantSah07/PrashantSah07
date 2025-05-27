@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 # Hii there👋
 I'm currently working on frontend projects using React, Tailwind & Framer Motion.<br>I'm looking to collaborate on exciting UI/UX-focused web apps.<br>I'm currently learning advanced React patterns and Next.js.<br>Ask me about building responsive UIs or managing state in React.<br>Fun fact: I’m a gamer at heart and love mixing tech with fun!<br><br>🧑‍💻 Portfolio: https://prashantsah.vercel.app
 
