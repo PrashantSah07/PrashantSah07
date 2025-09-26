@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Prashant
-I build **frontend projects** using **React, Tailwind & Framer Motion**.  
-Currently learning **advanced React patterns** & **Next.js**.  
+I build **frontend projects** using **React, Next, Redux, Tailwind & Framer Motion**.  
+Currently learning **advanced React patterns** & **Backend technologies**.  
 
 💡 Ask me about building **responsive UIs**, **state management**, or **modern web animations**.  
 🎮 Fun fact: I’m a gamer at heart and love mixing tech with fun!  
