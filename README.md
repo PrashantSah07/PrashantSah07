@@ -1,6 +1,9 @@
-# Hii there👋
-I'm currently working on frontend projects using React, Tailwind & Framer Motion.<br>I'm looking to collaborate on exciting UI/UX-focused web apps.<br>I'm currently learning advanced React patterns and Next.js.<br>Ask me about building responsive UIs or managing state in React.<br>Fun fact: I’m a gamer at heart and love mixing tech with fun!<br><br>🧑‍💻 Portfolio: https://prashantsah.vercel.app
+# 👋 Hi there! I'm Prashant
+I build **frontend projects** using **React, Tailwind & Framer Motion**.  
+Currently learning **advanced React patterns** & **Next.js**.  
 
+💡 Ask me about building **responsive UIs**, **state management**, or **modern web animations**.  
+🎮 Fun fact: I’m a gamer at heart and love mixing tech with fun!  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prashant_sah07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantkumar00/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantkumar855114@gmail.com) 
